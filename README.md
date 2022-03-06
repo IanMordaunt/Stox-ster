@@ -61,4 +61,4 @@
   GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>
   
 
-  ![alt text]()
+  ![alt text](https://github.com/IanMordaunt/Stox-ster/blob/main/assets/images/Stox-ster.png)
